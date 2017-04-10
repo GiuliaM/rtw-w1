@@ -1,0 +1,26 @@
+{
+  "name": "rtw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "xo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GiuliaM/rtw.git"
+  },
+  "author": "GM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GiuliaM/rtw/issues"
+  },
+  "homepage": "https://github.com/GiuliaM/rtw#readme",
+  "devDependencies": {
+    "xo": "^0.18.1"
+  },
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^1.7.3"
+  }
+}
