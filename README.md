@@ -15,6 +15,11 @@ For the demo I disabled the class hide. With this class I only show the username
 Using:
 [xo](https://github.com/sindresorhus/xo)
 
+### Sources
+- [Socket.io Chat App Using Websockets](https://www.youtube.com/watch?v=tHbCkikFfDE);
+- [Socket.io](https://socket.io/get-started/chat/)
+----
+
 ## Install
 First clone the repo:
 ```git
