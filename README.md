@@ -11,13 +11,14 @@ For the demo I disabled the class hide. With this class the page only shows the 
 
 ### To do:
 - Deploy the app
-- Add a style to the users in the chatt
+- Add a style to the users in the chat
 - Clearify the naming of elements
 - Think about new features
-- Beautify the conversation
 
 Using:
 [xo](https://github.com/sindresorhus/xo)
+[Express](https://expressjs.com/en/4x/api.html)
+[Socket.io](https://socket.io)
 
 ### Sources
 - [Socket.io Chat App Using Websockets](https://www.youtube.com/watch?v=tHbCkikFfDE);
@@ -58,7 +59,7 @@ Install [Express](https://expressjs.com/en/4x/api.html):
 npm install express --save
 ```
 
-Install [Socket.io]():
+Install [Socket.io](https://socket.io):
 ```git
 npm install --save socket.io
 ```
