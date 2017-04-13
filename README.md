@@ -6,11 +6,12 @@ This project is about setting up a chat app.
 
 For the demo I disabled the class hide. With this class the page only shows the username input. After that you wouldn't be able to change your username. In the demo case you can see the username, users online and chat with these users.
 
+Link to demo: https://realtime-chats.herokuapp.com
+
 ### Features
 - Send a message to other online users
 
 ### To do:
-- Deploy the app
 - Add a style to the users in the chat
 - Clearify the naming of elements
 - Think about new features
