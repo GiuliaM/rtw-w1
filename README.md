@@ -16,9 +16,9 @@ For the demo I disabled the class hide. With this class the page only shows the 
 - Think about new features
 
 Using:
-[xo](https://github.com/sindresorhus/xo)
-[Express](https://expressjs.com/en/4x/api.html)
-[Socket.io](https://socket.io)
+- [xo](https://github.com/sindresorhus/xo)
+- [Express](https://expressjs.com/en/4x/api.html)
+- [Socket.io](https://socket.io)
 
 ### Sources
 - [Socket.io Chat App Using Websockets](https://www.youtube.com/watch?v=tHbCkikFfDE);
